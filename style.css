@@ -1,0 +1,93 @@
+a:hover,a:visited,a:link,a:active {
+    text-decoration: none;
+}
+
+h5 {
+    color: white;
+}
+
+body {
+
+    background-color: #EAFDFC;
+
+}
+
+main{
+    min-height: 100vh;
+}
+
+
+table {
+    text-align: center;
+}
+
+
+
+footer {
+    padding-bottom: 0;
+}
+
+
+
+.gradient-background{
+
+    background: linear-gradient(112.5deg, rgb(95, 10, 135) 11.4%, rgb(164, 80, 139) 60.2%);
+} 
+
+.logo-container {
+    float: left;
+}
+  
+.logo-img {
+    height: auto;
+    width: 250px;
+}
+
+
+
+.middle-header {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.middle-para {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.nav-link {
+
+    color: white;
+}
+
+.PageTitle{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    text-align: center;
+    padding-bottom: 50px;
+    
+}  
+
+#top-progression-header {
+
+    text-align: center;
+    padding: 30px 0 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
